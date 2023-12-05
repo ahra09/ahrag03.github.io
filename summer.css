@@ -89,7 +89,7 @@ ul, li {
 .second {
     text-align: center;
     justify-content: center;
-    background-image: url(images/summer\ background.png);
+    background-image: url(./images/summer\ background.png);
     background-size: cover;
     padding-bottom: 50px;
 }
