@@ -399,7 +399,7 @@ footer {
     padding-top: 30px;
     padding-bottom: 20px;
     overflow: hidden;
-    background-image: url(images/winter\ background.png);
+    background-image: url(./images/winter\ background.png);
     background-size: cover;
 }
 .footer_container {
